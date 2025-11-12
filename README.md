@@ -84,11 +84,10 @@ ROC and Precision-Recall Curves
 
 Tejasri Chandu
 
-💼 Frontend Developer | Data Science Enthusiast
+💼 Frontend Developer | Cyber security Enthusiast
 
-🌐 GitHub
 
-✉️ Email: [your email]
+✉️ Email: tejasrichandu.dev@gmail.com
 
 📜 License
 
